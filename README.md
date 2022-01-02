@@ -1,10 +1,7 @@
-- 👋 Hi, I’m Andrew Micheal
-- 👀 I’m interested in Programming 
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+Hi, I'm Andrew, A software Developer who has passion for programming in general.I specialize in web development, and app development. i also write scripts in python to automate tasks.
 
-<!---
-Mykmicheals/Mykmicheals is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+for Web development i Work with : Html,Css,Javascript,React,Jquery,MongoDB,Sqlite,React,Django and Flask,
+
+for app development i work with: ReactNative,Java and Django
+
+for Python Automation i work with : BeautifulSoup,Selenium Webdriver
