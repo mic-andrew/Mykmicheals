@@ -4,4 +4,4 @@ for Web development i Work with : Html,Css,Javascript,React,Jquery,MongoDB,Sqlit
 
 for app development i work with: ReactNative,Java and Django
 
-for Python Automation i work with : BeautifulSoup,Selenium Webdriver
+for Python Automation i work with : BeautifulSoup,Selenium Webdriver.
